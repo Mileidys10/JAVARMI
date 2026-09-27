@@ -1,4 +1,7 @@
-*.class
+﻿*.class
 .idea/
 *.log
 bin/
+.project
+.classpath
+.settings/
